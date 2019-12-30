@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="274px" height="51px" viewBox="0 0 274 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>分步</title>
+    <desc>Created with Sketch.</desc>
+    <g id="写白卡" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="激活-默认" transform="translate(-50.000000, -113.000000)">
+            <g id="分步" transform="translate(51.000000, 114.000000)">
+                <circle id="椭圆形" stroke="#F5A623" fill="#FFFFFF" cx="16" cy="16" r="16"></circle>
+                <circle id="椭圆形备份" stroke="#F5A623" fill="#FFFFFF" cx="96" cy="16" r="16"></circle>
+                <circle id="椭圆形备份-2" fill="#F5A623" cx="177" cy="16" r="16"></circle>
+                <circle id="椭圆形备份-3" fill="#E1E1E2" cx="257" cy="16" r="16"></circle>
+                <text id="3" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="173" y="21">3</tspan>
+                </text>
+                <text id="认证" font-family="PingFangSC-Medium, PingFang SC" font-size="10" font-weight="400" fill="#F5A623">
+                    <tspan x="6" y="48">认证</tspan>
+                </text>
+                <text id="写卡" font-family="PingFangSC-Medium, PingFang SC" font-size="10" font-weight="400" fill="#F5A623">
+                    <tspan x="86" y="48">写卡</tspan>
+                </text>
+                <text id="激活" font-family="PingFangSC-Medium, PingFang SC" font-size="10" font-weight="400" fill="#F5A623">
+                    <tspan x="167" y="48">激活</tspan>
+                </text>
+                <text id="完成" opacity="0.504627046" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#2F2F4D">
+                    <tspan x="247" y="48">完成</tspan>
+                </text>
+                <text id="&gt;" font-family="Chalkboard" font-size="16" font-weight="normal" fill="#F5A623">
+                    <tspan x="55" y="21">&gt;</tspan>
+                </text>
+                <text id="&gt;备份" font-family="Chalkboard" font-size="16" font-weight="normal" fill="#F5A623">
+                    <tspan x="134" y="21">&gt;</tspan>
+                </text>
+                <text id="&gt;备份-2" opacity="0.504859561" font-family="Chalkboard" font-size="16" font-weight="normal" fill="#2F2F4D">
+                    <tspan x="214" y="21">&gt;</tspan>
+                </text>
+                <path d="M255.782175,21 C255.567412,21 255.352681,20.9186023 255.188793,20.7557903 L251.245868,16.8383769 C250.918091,16.5127194 250.918041,15.984652 251.245734,15.6589278 C251.573478,15.3332037 252.104873,15.3331536 252.432616,15.6587944 L255.782125,18.9866418 L262.567333,12.2442452 C262.895077,11.918571 263.426472,11.9185877 263.754216,12.2442785 C264.081942,12.5699693 264.081925,13.0980368 263.754182,13.4237276 L256.375591,20.7557403 C256.21172,20.9185857 255.996939,21 255.782175,21 Z" id="路径" fill="#878796" fill-rule="nonzero"></path>
+                <path d="M14.7821754,21 C14.5674117,21 14.3526815,20.9186023 14.188793,20.7557903 L10.2458684,16.8383769 C9.91809143,16.5127194 9.91804108,15.984652 10.2457341,15.6589278 C10.5734775,15.3332037 11.104873,15.3331536 11.4326164,15.6587944 L14.7821251,18.9866418 L21.5673332,12.2442452 C21.8950766,11.918571 22.4264721,11.9185877 22.7542155,12.2442785 C23.0819422,12.5699693 23.0819254,13.0980368 22.754182,13.4237276 L15.3755914,20.7557403 C15.2117197,20.9185857 14.9969392,21 14.7821754,21 Z" id="路径" fill="#F5A623" fill-rule="nonzero"></path>
+                <path d="M94.7821754,21 C94.5674117,21 94.3526815,20.9186023 94.188793,20.7557903 L90.2458684,16.8383769 C89.9180914,16.5127194 89.9180411,15.984652 90.2457341,15.6589278 C90.5734775,15.3332037 91.104873,15.3331536 91.4326164,15.6587944 L94.7821251,18.9866418 L101.567333,12.2442452 C101.895077,11.918571 102.426472,11.9185877 102.754216,12.2442785 C103.081942,12.5699693 103.081925,13.0980368 102.754182,13.4237276 L95.3755914,20.7557403 C95.2117197,20.9185857 94.9969392,21 94.7821754,21 Z" id="路径" fill="#F5A623" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

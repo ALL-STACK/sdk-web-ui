@@ -1,0 +1,59 @@
+@import '../../utils/utils.less';
+
+.title {
+  .flex(space-between);
+  & .orderNum {
+    color: #2F2F4D;
+    .px2Rem(font-size, 15)
+  }
+  & .status {
+    text-align: right;
+    color: @PRIMARY_COLOR;
+    .px2Rem(font-size, 15)
+  }
+  &:after {
+    .border-bottom();
+  }
+}
+
+.step {
+  & .left {
+    position: relative;
+    padding-left: 20px;
+    & .svg {
+      z-index: 999;
+      position: absolute;
+      right: -7.25px;
+      top: -7px;
+    }
+  }
+  
+  & .right {
+    padding-left: 16px;
+    width: 100%;
+    .px2Rem(min-height, 80);
+    & .wrapper {
+      position: relative;
+      & .box {
+        position: absolute;
+        top: -8px;
+        left: 0;
+        & .step-title {
+          color: #2F2F4D;
+          .px2Rem(font-size, 16);
+        }
+        & .step-error {
+          color: #FF5454;
+          .px2Rem(font-size, 14);
+        }
+        & .step-desc {
+          .px2Rem(font-size, 12);
+          color: #9395997a;
+        }
+      }
+    }
+  }
+}
+
+
+

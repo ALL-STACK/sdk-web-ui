@@ -1,0 +1,39 @@
+@import '../../utils/utils.less';
+
+.my-list .spe .am-list-extra {
+  flex-basis: initial;
+}
+
+.demo1 {
+  .flex(space-between);
+  & .name {
+    .px2Rem(font-size, 16);
+    color: rgba(47, 47, 77, 0.55)
+  }
+  & .value {
+    .px2Rem(font-size, 15);
+    color: #2F2F4D;
+  }
+}
+.demo2:after {
+  .border-bottom();
+}
+
+.result {
+  .flex(center);
+  &:after {
+    .border-bottom();
+  }
+  & .status-name {
+    padding: 12px 0 0;
+    width: 100%;
+    .px2Rem(font-size, 14);
+    text-align: center;
+    color: @PRIMARY_COLOR;
+  }
+  & .activate-time {
+    padding-top: 12px;
+    .px2Rem(font-size, 11);
+    color: rgba(47, 47, 77, 0.55)
+  }
+}
