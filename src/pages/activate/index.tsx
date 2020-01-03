@@ -5,6 +5,7 @@ import BodyWrapper from '@/components/BodyWrapper';
 import Card from '@/components/Card';
 import BottomBtn from '@/components/BottomBtn';
 import { primaryColor } from '@/theme';
+import router from 'umi/router';
 
 const styles = require('./index.less');
 const MAX = 463.65;
@@ -137,7 +138,7 @@ export default () => {
           <Card>
             {renderUserInfo()}
           </Card>
-          <BottomBtn title="返回主页" onClick={() => {}}/>
+          <BottomBtn title="返回主页" onClick={() => {router.push('/')}}/>
           </React.Fragment>
         ) : null
       }

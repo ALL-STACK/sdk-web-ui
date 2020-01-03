@@ -4,6 +4,19 @@
   flex-basis: initial;
 }
 
+.not-support {
+  text-align: center;
+  .px2Rem(padding-top, 48);
+  & .blank {
+    padding: 24px;
+  }
+  & span {
+    color: #2F2F4D;
+    .px2Rem(font-size, 16);
+    font-weight: bold;
+  }
+}
+
 .demo1 {
   .flex(space-between);
   & .name {
