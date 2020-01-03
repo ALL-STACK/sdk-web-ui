@@ -46,9 +46,6 @@ $ yarn start or npm run start # 访问 http://localhost:8080
 $ yarn build or npm run build
 
 ```
-更多命令可在[package.json](./package.json)中查看
-
-> demo 还在持续完善中。。。
 
 ## 支持环境
 
