@@ -1,14 +1,3 @@
-# umi-dva-antd-mobile
-[![Build With Umi](https://img.shields.io/badge/build%20with-umi-028fe4.svg?style=flat-square)](http://umijs.org/)
-[![Build With dva](https://img.shields.io/badge/build%20with-dva-028fe4.svg?style=flat-square)](https://dvajs.com/)
-[![Build With antd-mobile](https://img.shields.io/badge/build-antd--mobile-green.svg)](https://mobile.ant.design)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]()
-
-该项目主要以 [UMI](https://umijs.org/zh/) + [DVA](https://dvajs.com/) 为底层框架，以[Ant Design Mobile](https://mobile.ant.design/)为 UI 组件库，包含完整的前端工程化实践。
-
-部分代码及功能参考于 [Ant Design pro](https://pro.ant.design/)
-
-:clap: 已经支持微信开发，相见 [wx](https://github.com/hqwlkj/umi-dva-antd-mobile/tree/wx) 分支。
 
 ## 目录结构
 
@@ -68,12 +57,5 @@ $ yarn build or npm run build
 | --------- | --------- |
 | iOS Safari | Android 4.0+ |
 
-
-## 参与贡献
-
-我们非常欢迎你的贡献，你可以通过以下方式和我一起共建 :smiley:：
-
-- 通过 [Issue](https://github.com/hqwlkj/umi-dva-antd-mobile/issues) 报告 bug 或进行咨询。
-- 提交 [Pull Request](https://github.com/hqwlkj/umi-dva-antd-mobile/pulls) 改进代码。
 
 
